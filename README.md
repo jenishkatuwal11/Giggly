@@ -14,11 +14,5 @@ A simple real-time chat application built with Node.js, Express, and Socket.IO. 
 
 Make sure you have Node.js and npm (Node Package Manager) installed on your machine. You can download and install them from [nodejs.org](https://nodejs.org/).
 
-### Installation
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/chat-app.git
-   cd chat-app
 
